@@ -20,7 +20,7 @@ const AboutSection: React.FC = () => {
           <div className="flex-1 space-y-8 text-center lg:text-left">
             <div className="space-y-4">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight leading-tight">
-                Why we built Imolé.
+                Why we built DeepAuth.
               </h2>
               <p className="text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto lg:mx-0 font-light">
                 In an era of deepfakes, clarity is power. We are a team of engineers and journalists dedicated to restoring trust. We don't just scan text; we analyze intent, context, and origin to give you the full picture.
